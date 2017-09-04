@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b95252bb1244a43b586ff99cb586a02c
+timeCreated: 1504268154
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ribeat
+  fontNames:
+  - Ribeat
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
